@@ -1,0 +1,24 @@
+{
+  "name": "ping-punk",
+  "version": "1.0.0",
+  "description": "**Tennis**",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACSAIS/ping-punk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACSAIS/ping-punk/issues"
+  },
+  "homepage": "https://github.com/ACSAIS/ping-punk#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "webpack": "^4.27.1"
+  }
+}
